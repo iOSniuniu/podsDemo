@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'podsDemo' => ['podsDemo/Assets/*.png']
   # }
 
-  s.public_header_files = 'podsDemo/Classes/*.h','podsDemo/Classes/**/*.{h,m}'
+  s.public_header_files = 'podsDemo/Classes/*.h','podsDemo/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
